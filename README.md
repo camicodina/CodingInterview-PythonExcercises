@@ -30,4 +30,3 @@ _This is the order I did the excercises:_
 ---
 
 _Camila Codina_
->>>>>>> d73fce1... initial commit
